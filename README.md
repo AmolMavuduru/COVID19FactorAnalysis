@@ -1,4 +1,5 @@
 # COVID19FactorAnalysis
+An attempt at understanding the factors that influence the spread of COVID-19 and training deep learning models to predict the number of COVID-19 cases, deaths and recoveries.
 
 ## Visualizations
 
