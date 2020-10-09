@@ -11,3 +11,9 @@
 
 ### Recovered Cases (7/20/20)
 ![recovered cases](./visualizations/recovered.svg)
+
+## Forecasts
+
+### Daily Cases Forecast for the U.S. Assuming No Policy Changes
+![daily_cases](./visualizations/daily_cases.png)
+
